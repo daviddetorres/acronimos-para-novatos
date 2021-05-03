@@ -9,6 +9,7 @@
 * BRB: Be right back
 * DKDC: Don't Know, Don't Care
 * FAQ: Frequently Asked Questions
+* FML: Fuck My Life
 * FTR: For The Record
 * FWIW: For What It's Worth
 * GA: General Availability
@@ -35,6 +36,7 @@
 * TL;DR: Too Long; Didn't Read 
 * UAT: User Acceptance Testing
 * WDYT: What do you think?
+* WTF: What The Fuck
 * YRW: You are welcome
 
 # Abreviaturas
