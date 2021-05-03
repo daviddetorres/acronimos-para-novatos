@@ -40,4 +40,4 @@
 * re: Regarding, para cuando quieres poner en contexto un tema del que hablar
 
 # Frases hechas
-* My 2 cents: Se usa antes de dar una opnión que debe tomarse solo comoaportación o sugerencia. Similar a IMHO.
+* My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
