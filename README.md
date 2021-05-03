@@ -12,22 +12,26 @@
 * FWIW: For What It's Worth
 * GTM: Go To Meeting
 * ICYMI: In Case You Missed It
+* IDC: I Don't Care
 * IDK: I Don't Know
 * IHAC: I Have A Customer/Client
 * IMHO: In My Humble Opinion
 * IIRC: If I Remember Corretly
+* LGTM: Looks Good To Me
 * LMK: Let Me Know
-* LTGM: Looks Good To Me
 * NP: no problem
 * OOO: Out Of Office
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PR: Pull Request
 * PTO: Paid Time Off
+* TBH: To be honest
 * TL;DR: Too Long; Didn't Read 
 * WDYT: What do you think?
+* YRW: You are welcome
 
 # Abreviaturas
 * nit: De nitpick Usado en PR, para sugerenciales pequeñas, sin importancia
+* re: Regarding, para cuando quieres poner en contexto un tema del que hablar
 
 # Frases hechas
 * My 2 cents: Se usa antes de dar una opnión que debe tomarse solo comoaportación o sugerencia. Similar a IMHO.
