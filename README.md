@@ -8,6 +8,8 @@
 * ASAP: As Soon As Possible
 * BRB: Be right back
 * DKDC: Don't Know, Don't Care
+* FTR: For The Record
+* FWIW: For What It's Worth
 * GTM: Go To Meeting
 * ICYMI: In Case You Missed It
 * IDK: I Don't Know
