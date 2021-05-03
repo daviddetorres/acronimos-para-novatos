@@ -30,8 +30,10 @@
 * PTO: Paid Time Off
 * QA: Quality Assurance
 * Q&A: Questions & Answers
+* SIT: System Integration Testing
 * TBH: To be honest
 * TL;DR: Too Long; Didn't Read 
+* UAT: User Acceptance Testing
 * WDYT: What do you think?
 * YRW: You are welcome
 
