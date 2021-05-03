@@ -15,6 +15,7 @@
 * IDK: I Don't Know
 * IHAC: I Have A Customer/Client
 * IMHO: In My Humble Opinion
+* IIRC: If I Remember Corretly
 * LMK: Let Me Know
 * LTGM: Looks Good To Me
 * NP: no problem
@@ -24,3 +25,6 @@
 * PTO: Paid Time Off
 * TL;DR: Too Long; Didn't Read 
 * WDYT: What do you think?
+
+#Lista de abreviaturas:
+* nit: De nitpick Usado en PR, para sugerenciales pequeñas, sin importancia
