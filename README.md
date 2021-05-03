@@ -5,6 +5,7 @@
 
 * AFK: Away From Keyboard
 * ASAP: As Soon As Possible
+* BRB: Be right back
 * GTM: Go To Meeting
 * ICYMI: In Case You Missed It
 * IDK: I Don't Know
@@ -12,6 +13,8 @@
 * IMHO: In My Humble Opinion
 * LMK: Let Me Know
 * LTGM: Looks Good To Me
+* NP: no problem
 * OOO: Out Of Office
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PTO: Paid Time Off
+* WDYT: What do you think?
