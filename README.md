@@ -5,6 +5,7 @@
 
 * AFK: Away From Keyboard
 * ASAP: As Soon As Possible
+* GTM: Go To Meeting
 * ICYMI: In Case You Missed It
 * IDK: I Don't Know
 * IHAC: I Have A Customer/Client
