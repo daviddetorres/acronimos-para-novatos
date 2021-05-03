@@ -17,4 +17,5 @@
 * OOO: Out Of Office
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PTO: Paid Time Off
+* TLDR: Too Long Don't Read 
 * WDYT: What do you think?
