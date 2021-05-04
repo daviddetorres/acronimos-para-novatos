@@ -7,6 +7,7 @@
 * AFK: Away From Keyboard
 * ASAP: As Soon As Possible
 * BRB: Be right back
+* BYOK: Bring Your Own Key
 * DKDC: Don't Know, Don't Care
 * FAQ: Frequently Asked Questions
 * FML: Fuck My Life
