@@ -23,6 +23,7 @@
 * IMO: In My Opinion
 * IIRC: If I Remember Corretly
 * LGTM: Looks Good To Me
+* LMAO: Laughing my ass off
 * LMK: Let Me Know
 * MS: Milestone
 * NP: no problem
