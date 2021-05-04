@@ -49,7 +49,7 @@
 # Frases hechas
 * My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
 
-# tiempo
+# Tiempo
 * Q1 - Q4: quarters -> trimestres
 * FY: Fiscal year
 * H1: en ~6 meses
