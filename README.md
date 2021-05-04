@@ -13,7 +13,7 @@
 * FTR: For The Record
 * FWIW: For What It's Worth
 * GA: General Availability
-* GTM: Go To Meeting
+* GTM: Go To Meeting or Go to Market
 * ICYMI: In Case You Missed It
 * IDC: I Don't Care
 * IDK: I Don't Know
@@ -27,11 +27,14 @@
 * NP: no problem
 * OOO: Out Of Office
 * PEBKAC: Problem Exist Between Keyboard And Chair
+* PFA: Please find attached
 * PR: Pull Request
 * PTO: Paid Time Off
 * QA: Quality Assurance
+* QBR: quarterly business review
 * Q&A: Questions & Answers
 * SIT: System Integration Testing
+* TBD: To be determined
 * TBH: To be honest
 * TL;DR: Too Long; Didn't Read 
 * UAT: User Acceptance Testing
@@ -45,3 +48,8 @@
 
 # Frases hechas
 * My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
+
+# tiempo
+* Q1 - Q4: quarters -> trimestres
+* FY: Fiscal year
+* H1: en ~6 meses
