@@ -26,10 +26,12 @@
 * LMAO: Laughing my ass off
 * LMK: Let Me Know
 * MS: Milestone
+* MVP: Minimum Viable Product
 * NP: no problem
 * OOO: Out Of Office
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
+* PoC: Proof of Concept
 * PR: Pull Request
 * PTO: Paid Time Off
 * QA: Quality Assurance
