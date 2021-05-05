@@ -13,6 +13,7 @@
 * FML: Fuck My Life
 * FTR: For The Record
 * FWIW: For What It's Worth
+* FYI: For Your Information
 * GA: General Availability
 * GTM: Go To Meeting or Go to Market
 * ICYMI: In Case You Missed It
@@ -40,7 +41,7 @@
 * SIT: System Integration Testing
 * TBD: To be determined
 * TBH: To be honest
-* TL;DR: Too Long; Didn't Read 
+* TL;DR: Too Long; Didn't Read
 * UAT: User Acceptance Testing
 * WDYT: What do you think?
 * WTF: What The Fuck
