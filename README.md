@@ -45,6 +45,7 @@
 * TL;DR: Too Long; Didn't Read
 * UAT: User Acceptance Testing
 * WDYT: What do you think?
+* WIP: Work In Progress
 * WTF: What The Fuck
 * YRW: You are welcome
 
