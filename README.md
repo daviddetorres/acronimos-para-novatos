@@ -9,6 +9,7 @@
 * BRB: Be right back
 * BYOK: Bring Your Own Key
 * DKDC: Don't Know, Don't Care
+* EMEA: Europe, the Middle East and Africa
 * FAQ: Frequently Asked Questions
 * FML: Fuck My Life
 * FTR: For The Record
