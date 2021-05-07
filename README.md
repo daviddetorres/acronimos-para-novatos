@@ -8,6 +8,9 @@
 * ASAP: As Soon As Possible
 * BRB: Be right back
 * BYOK: Bring Your Own Key
+* CA: Certification Authority
+* CD/CI: Continuous Delivery (Development) / Continuous Integration
+* CEO: Chief Executive Officer
 * DKDC: Don't Know, Don't Care
 * EMEA: Europe, the Middle East and Africa
 * FAQ: Frequently Asked Questions
@@ -29,21 +32,28 @@
 * LMK: Let Me Know
 * MS: Milestone
 * MVP: Minimum Viable Product
-* NP: no problem
+* NP: No Problem
+* NVM: Never Mind
 * OOO: Out Of Office
+* OTR: Off The Record
+* PA: Product Analyst
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
+* PM: Product Manager
 * PoC: Proof of Concept
 * PR: Pull Request
 * PTO: Paid Time Off
 * QA: Quality Assurance
 * QBR: quarterly business review
 * Q&A: Questions & Answers
+* RC: Release Candidate
+* SE: Software Engineer
 * SIT: System Integration Testing
 * TBD: To be determined
 * TBH: To be honest
 * TL;DR: Too Long; Didn't Read
 * UAT: User Acceptance Testing
+* VP: Vice-President
 * WDYT: What do you think?
 * WIP: Work In Progress
 * WTF: What The Fuck
@@ -57,6 +67,6 @@
 * My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
 
 # Tiempo
-* Q1 - Q4: quarters -> trimestres
-* FY: Fiscal year
-* H1: en ~6 meses
+* FY: Fiscal Year
+* H1 - H2: Half -> Semestres
+* Q1 - Q4: Quarters -> Trimestres
