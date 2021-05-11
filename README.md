@@ -24,6 +24,7 @@
 * IDC: I Don't Care
 * IDK: I Don't Know
 * IHAC: I Have A Customer/Client
+* IIRC: If I Recall Correctly
 * IMHO: In My Humble Opinion
 * IMO: In My Opinion
 * IIRC: If I Remember Corretly
@@ -33,6 +34,7 @@
 * MS: Milestone
 * MVP: Minimum Viable Product
 * NP: No Problem
+* NSFW: Not Safe For Work
 * NVM: Never Mind
 * OOO: Out Of Office
 * OTR: Off The Record
@@ -52,6 +54,7 @@
 * TBD: To be determined
 * TBH: To be honest
 * TL;DR: Too Long; Didn't Read
+* TOI: Topic Of Interest/ Transfer Of Information
 * UAT: User Acceptance Testing
 * VP: Vice-President
 * WDYT: What do you think?
