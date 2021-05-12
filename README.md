@@ -11,6 +11,7 @@
 * CA: Certification Authority
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
+* CFP: Call For Papers
 * DKDC: Don't Know, Don't Care
 * EMEA: Europe, the Middle East and Africa
 * FAQ: Frequently Asked Questions
