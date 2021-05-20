@@ -38,6 +38,7 @@
 * NSFW: Not Safe For Work
 * NVM: Never Mind
 * OOO: Out Of Office
+* OTOH: On the other hand
 * OTR: Off The Record
 * PA: Product Analyst
 * PEBKAC: Problem Exist Between Keyboard And Chair
