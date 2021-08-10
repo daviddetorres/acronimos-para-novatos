@@ -33,6 +33,8 @@
 * LGTM: Looks Good To Me
 * LMAO: Laughing my ass off
 * LMK: Let Me Know
+* MBR: Master Boot Record
+* MBR: Monthly Business Review
 * MS: Milestone
 * MVP: Minimum Viable Product
 * NP: No Problem
@@ -54,6 +56,7 @@
 * RC: Release Candidate
 * SE: Software Engineer
 * SIT: System Integration Testing
+* SSOT: Single Source Of Truth
 * TBD: To be determined
 * TBH: To be honest
 * TL;DR: Too Long; Didn't Read
