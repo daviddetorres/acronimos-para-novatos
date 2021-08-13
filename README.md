@@ -48,7 +48,7 @@
 * PFA: Please find attached
 * PM: Product Manager
 * PoC: Proof of Concept
-+ PoV: Proof of Value
+* PoV: Proof of Value
 * PR: Pull Request
 * PTO: Paid Time Off
 * QA: Quality Assurance
