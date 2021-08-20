@@ -13,6 +13,8 @@
 * CEO: Chief Executive Officer
 * CFP: Call For Papers
 * DKDC: Don't Know, Don't Care
+* DOD: Definition Of Done (Agilismo)
+* DOR: Definition Of Ready (Agilismo)
 * ELI5: Explain Like I'm 5
 * EMEA: Europe, the Middle East and Africa
 * FAQ: Frequently Asked Questions
