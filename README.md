@@ -9,6 +9,7 @@
 * BRB: Be right back
 * BYOK: Bring Your Own Key
 * CA: Certification Authority
+* CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
 * CFP: Call For Papers
