@@ -37,7 +37,7 @@
 * LMK: Let Me Know
 * MBR: Master Boot Record
 * MBR: Monthly Business Review
-* MTTR: Mean Time To Repair (also Mean Time To Recovery)
+* MTTR: Mean Time To Repair (también Mean Time To Recovery)
 * MS: Milestone
 * MVP: Minimum Viable Product
 * NP: No Problem
@@ -78,6 +78,7 @@
 
 # Frases hechas
 * My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
+* Low hanging fruit: Mejoras o acciones que se pueden realizar con poco esfuerzo en relación al beneficio.
 
 # Tiempo
 * FY: Fiscal Year
