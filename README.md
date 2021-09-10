@@ -37,6 +37,7 @@
 * LMK: Let Me Know
 * MBR: Master Boot Record
 * MBR: Monthly Business Review
+* MTTR: Mean Time To Repair (also Mean Time To Recovery)
 * MS: Milestone
 * MVP: Minimum Viable Product
 * NP: No Problem
