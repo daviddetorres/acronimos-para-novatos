@@ -9,21 +9,31 @@
 * BRB: Be right back
 * BYOK: Bring Your Own Key
 * CA: Certification Authority
+* CASB: Cloud Access Security Broker
+* CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
 * CFP: Call For Papers
+* CSPM: Cloud Security Posture Management
+* CWPP: Cloud Workload Protection Platform
+* DA: Data Analyst
 * DKDC: Don't Know, Don't Care
+* DLP: Data Loss Prevention
 * DOD: Definition Of Done (Agilismo)
 * DOR: Definition Of Ready (Agilismo)
 * ELI5: Explain Like I'm 5
 * EMEA: Europe, the Middle East and Africa
 * FAQ: Frequently Asked Questions
+* FAT: Factory Acceptance Test
 * FML: Fuck My Life
 * FTR: For The Record
 * FWIW: For What It's Worth
 * FYI: For Your Information
 * GA: General Availability
 * GTM: Go To Meeting or Go to Market
+* HIDS: Host-based Intrusion Detection System
+* IaC: Infrastructure as Code
+* IAM: Identity and Access Management
 * ICYMI: In Case You Missed It
 * IDC: I Don't Care
 * IDK: I Don't Know
@@ -32,6 +42,7 @@
 * IMHO: In My Humble Opinion
 * IMO: In My Opinion
 * IIRC: If I Remember Corretly
+* IT: Information Technologies
 * LGTM: Looks Good To Me
 * LMAO: Laughing my ass off
 * LMK: Let Me Know
@@ -48,7 +59,7 @@
 * PA: Product Analyst
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
-* PM: Product Manager
+* PM: Product Manager / Project Manager
 * PoC: Proof of Concept
 * PoV: Proof of Value
 * PR: Pull Request
@@ -57,17 +68,23 @@
 * QBR: quarterly business review
 * Q&A: Questions & Answers
 * RC: Release Candidate
+* SaaS: Software as a Service
+* SAT: Site Acceptance Test
 * SE: Software Engineer
 * SIT: System Integration Testing
 * SSOT: Single Source Of Truth
+* SSPM: SaaS Security Posture Management
 * TBD: To be determined
 * TBH: To be honest
 * TL;DR: Too Long; Didn't Read
 * TOI: Topic Of Interest/ Transfer Of Information
-* UAT: User Acceptance Testing
+* UAT: User Acceptance Test
+* UEBA: User and Entity Behaviour Analytics
+* VM: Virtual Machine
 * VP: Vice-President
 * WDYT: What do you think?
 * WIP: Work In Progress
+* WL: Workload
 * WTF: What The Fuck
 * YRW: You are welcome
 
