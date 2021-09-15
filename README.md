@@ -9,11 +9,11 @@
 * BRB: Be right back
 * BYOK: Bring Your Own Key
 * CA: Certification Authority
+* CASB: Cloud Access Security Broker
 * CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
 * CFP: Call For Papers
-* CASB: Cloud Access Security Broker
 * CSPM: Cloud Security Posture Management
 * CWPP: Cloud Workload Protection Platform
 * DA: Data Analyst
@@ -70,10 +70,10 @@
 * RC: Release Candidate
 * SaaS: Software as a Service
 * SAT: Site Acceptance Test
-* SSPM: SaaS Security Posture Management
 * SE: Software Engineer
 * SIT: System Integration Testing
 * SSOT: Single Source Of Truth
+* SSPM: SaaS Security Posture Management
 * TBD: To be determined
 * TBH: To be honest
 * TL;DR: Too Long; Didn't Read
