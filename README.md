@@ -85,6 +85,7 @@
 * WDYT: What do you think?
 * WIP: Work In Progress
 * WL: Workload
+* WRT: With Respect To
 * WTF: What The Fuck
 * YRW: You are welcome
 
