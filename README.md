@@ -14,9 +14,13 @@
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
 * CFP: Call For Papers
+* CNAPP: Cloud-Native Application Protection Platform
+* CNSP: Cloud-Native Security Platform
 * CSPM: Cloud Security Posture Management
+* CVSS: Common Vulnerability Scoring System
 * CWPP: Cloud Workload Protection Platform
 * DA: Data Analyst
+* DAST: Dynamic Application Security Testing 
 * DKDC: Don't Know, Don't Care
 * DLP: Data Loss Prevention
 * DOD: Definition Of Done (Agilismo)
@@ -29,8 +33,9 @@
 * FTR: For The Record
 * FWIW: For What It's Worth
 * FYI: For Your Information
+* G2M: Go To Market
 * GA: General Availability
-* GTM: Go To Meeting or Go to Market
+* GTM: Go To Meeting or Go To Market
 * HIDS: Host-based Intrusion Detection System
 * IaC: Infrastructure as Code
 * IAM: Identity and Access Management
@@ -43,6 +48,8 @@
 * IMO: In My Opinion
 * IIRC: If I Remember Corretly
 * IT: Information Technologies
+* K8s: Kubernetes
+* KSPM: Kubernetes Security Posture Management
 * LGTM: Looks Good To Me
 * LMAO: Laughing my ass off
 * LMK: Let Me Know
@@ -54,6 +61,7 @@
 * NSFW: Not Safe For Work
 * NVM: Never Mind
 * OOO: Out Of Office
+* OSS: Open Source Software
 * OTOH: On the other hand
 * OTR: Off The Record
 * PA: Product Analyst
@@ -69,23 +77,31 @@
 * Q&A: Questions & Answers
 * RC: Release Candidate
 * SaaS: Software as a Service
+* SAST: Static Application Security Testing 
 * SAT: Site Acceptance Test
 * SE: Software Engineer
 * SIT: System Integration Testing
+* SME: Subject-Matter Expert
+* SRE: Site Reliability Engineer
+* SRM: Security and Risk Management
 * SSOT: Single Source Of Truth
 * SSPM: SaaS Security Posture Management
 * TBD: To be determined
 * TBH: To be honest
+* TDD: Test-Driven Development
 * TL;DR: Too Long; Didn't Read
 * TOI: Topic Of Interest/ Transfer Of Information
 * UAT: User Acceptance Test
 * UEBA: User and Entity Behaviour Analytics
 * VM: Virtual Machine
 * VP: Vice-President
+* WAAP: Web Application and API Protection
+* WAF: Web Application Firewall
 * WDYT: What do you think?
 * WIP: Work In Progress
 * WL: Workload
 * WTF: What The Fuck
+* YAML: YAML Ain’t Markup Language
 * YRW: You are welcome
 
 # Abreviaturas
