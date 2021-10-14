@@ -14,6 +14,7 @@
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
 * CFP: Call For Papers
+* CIEM: Cloud Infrastructure Entitlement Management
 * CNAPP: Cloud-Native Application Protection Platform
 * CNSP: Cloud-Native Security Platform
 * CSPM: Cloud Security Posture Management
@@ -80,6 +81,7 @@
 * SAST: Static Application Security Testing 
 * SAT: Site Acceptance Test
 * SE: Software Engineer
+* SIEM: Security Information and Event Management
 * SIT: System Integration Testing
 * SME: Subject-Matter Expert
 * SRE: Site Reliability Engineer
