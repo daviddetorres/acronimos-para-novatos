@@ -100,6 +100,7 @@
 * WDYT: What do you think?
 * WIP: Work In Progress
 * WL: Workload
+* WRT: With Respect To
 * WTF: What The Fuck
 * YAML: YAML Ain’t Markup Language
 * YRW: You are welcome
