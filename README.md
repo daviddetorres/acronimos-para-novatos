@@ -97,6 +97,7 @@
 * UAT: User Acceptance Test
 * UEBA: User and Entity Behaviour Analytics
 * VM: Virtual Machine
+* VM: Vulnerability Management
 * VP: Vice-President
 * WAAP: Web Application and API Protection
 * WAF: Web Application Firewall
