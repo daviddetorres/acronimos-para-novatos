@@ -14,6 +14,7 @@
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
 * CFP: Call For Papers
+* CI/CD: Continuous Integration / Continuous Delivery (Development)
 * CIEM: Cloud Infrastructure Entitlement Management
 * CNAPP: Cloud-Native Application Protection Platform
 * CNSP: Cloud-Native Security Platform
