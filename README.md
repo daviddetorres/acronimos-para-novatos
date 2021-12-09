@@ -29,6 +29,7 @@
 * DOR: Definition Of Ready (Agilismo)
 * ELI5: Explain Like I'm 5
 * EMEA: Europe, the Middle East and Africa
+* ETA: Estimated Time of Arrival
 * FAQ: Frequently Asked Questions
 * FAT: Factory Acceptance Test
 * FML: Fuck My Life
