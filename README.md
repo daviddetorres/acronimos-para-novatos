@@ -59,6 +59,7 @@
 * MBR: Master Boot Record
 * MBR: Monthly Business Review
 * MS: Milestone
+* MTTR: Mean Time to Repair
 * MVP: Minimum Viable Product
 * NP: No Problem
 * NSFW: Not Safe For Work
