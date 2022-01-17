@@ -86,6 +86,7 @@
 * SE: Software Engineer
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
+* SKO: Sales Kickoff
 * SME: Subject-Matter Expert
 * SRE: Site Reliability Engineer
 * SRM: Security and Risk Management
