@@ -13,6 +13,7 @@
 * CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
+* CISO: Chief Information Security Officer (as a service)
 * CFP: Call For Papers
 * CI/CD: Continuous Integration / Continuous Delivery (Development)
 * CIEM: Cloud Infrastructure Entitlement Management
@@ -86,6 +87,7 @@
 * SE: Software Engineer
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
+* SKO: Sales Kickoff
 * SME: Subject-Matter Expert
 * SRE: Site Reliability Engineer
 * SRM: Security and Risk Management
