@@ -54,6 +54,7 @@
 * IT: Information Technologies
 * K8s: Kubernetes
 * KSPM: Kubernetes Security Posture Management
+* KT: Knowledge Transfer (TOI synonymous)
 * LGTM: Looks Good To Me
 * LMAO: Laughing my ass off
 * LMK: Let Me Know
