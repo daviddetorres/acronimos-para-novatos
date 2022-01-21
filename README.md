@@ -125,3 +125,6 @@
 * FY: Fiscal Year
 * H1 - H2: Half -> Semestres
 * Q1 - Q4: Quarters -> Trimestres
+
+# Otros
+* [101](https://en.wikipedia.org/wiki/101_(topic)): A topic for beginners in any area. It has all the basic principles and concepts that are expected in a particular field
