@@ -5,6 +5,7 @@
 
 * AFAIK: As Far As I Know
 * AFK: Away From Keyboard
+* ARR: Annual Recurring Revenue
 * ASAP: As Soon As Possible
 * BRB: Be right back
 * BYOK: Bring Your Own Key
