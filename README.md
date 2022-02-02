@@ -1,7 +1,7 @@
-# Acronimos para novatos
-¿Acabas de aterrizar en una empresa o proyecto en inglés y todos hablan con siglas que no entiendes? Hemos estado allí, y esta es tu guía de supervivencia.
+# Acronyms for newbies
+Did you just land in an English company or project and everyone speaks in acronyms you don't understand? We've been there, here's your survival guide.
 
-# Acrónimos
+# Acronyms
 
 * AFAIK: As Far As I Know
 * AFK: Away From Keyboard
@@ -24,11 +24,11 @@
 * CVSS: Common Vulnerability Scoring System
 * CWPP: Cloud Workload Protection Platform
 * DA: Data Analyst
-* DAST: Dynamic Application Security Testing 
+* DAST: Dynamic Application Security Testing
 * DKDC: Don't Know, Don't Care
 * DLP: Data Loss Prevention
-* DOD: Definition Of Done (Agilismo)
-* DOR: Definition Of Ready (Agilismo)
+* DOD: Definition Of Done (Agile)
+* DOR: Definition Of Ready (Agile)
 * ELI5: Explain Like I'm 5
 * EMEA: Europe, the Middle East and Africa
 * ETA: Estimated Time of Arrival
@@ -51,7 +51,7 @@
 * IIRC: If I Recall Correctly
 * IMHO: In My Humble Opinion
 * IMO: In My Opinion
-* IIRC: If I Remember Corretly
+* IIRC: If I Remember Correctly
 * IT: Information Technologies
 * K8s: Kubernetes
 * KSPM: Kubernetes Security Posture Management
@@ -84,7 +84,7 @@
 * Q&A: Questions & Answers
 * RC: Release Candidate
 * SaaS: Software as a Service
-* SAST: Static Application Security Testing 
+* SAST: Static Application Security Testing
 * SAT: Site Acceptance Test
 * SE: Software Engineer
 * SIEM: Security Information and Event Management
@@ -115,17 +115,17 @@
 * YAML: YAML Ain’t Markup Language
 * YRW: You are welcome
 
-# Abreviaturas
-* nit: De nitpick Usado en PR, para sugerenciales pequeñas, sin importancia
-* re: Regarding, para cuando quieres poner en contexto un tema del que hablar
+# Abbreviations
+* nit: From nitpick. Used in PR for small suggestions, without importance
+* re: From regarding. Used when you want to put in context a subject to talk about (eg. re PR #0001, I was thinking about...)
 
-# Frases hechas
-* My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
+# Catchphrases
+* My 2 cents: It is used before giving an opinion that should be taken only as an input or suggestion. Similar to IMHO..
 
-# Tiempo
+# Time
 * FY: Fiscal Year
-* H1 - H2: Half -> Semestres
-* Q1 - Q4: Quarters -> Trimestres
+* H1 - H2: Half -> Semester
+* Q1 - Q4: Quarters -> Trimester
 
-# Otros
+# Others
 * [101](https://en.wikipedia.org/wiki/101_(topic)): A topic for beginners in any area. It has all the basic principles and concepts that are expected in a particular field
