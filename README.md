@@ -113,6 +113,7 @@
 * WRT: With Respect To
 * WTF: What The Fuck
 * YAML: YAML Ain’t Markup Language
+* YMMV: Your Mileage May Vary (to mean that you understand people may have a different opinion or experience to yours)
 * YRW: You are welcome
 
 # Abreviaturas
