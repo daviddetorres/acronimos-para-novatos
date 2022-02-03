@@ -99,6 +99,8 @@
 * TBD: To be determined
 * TBH: To be honest
 * TDD: Test-Driven Development
+* TIA: Thanks In Advance
+* TIL: Today I Learned
 * TL;DR: Too Long; Didn't Read
 * TOI: Topic Of Interest/ Transfer Of Information
 * UAT: User Acceptance Test
