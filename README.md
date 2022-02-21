@@ -79,6 +79,7 @@
 * PoC: Proof of Concept
 * PoV: Proof of Value
 * PR: Pull Request
+* PRD: Product Requirements Document
 * PTO: Paid Time Off
 * QA: Quality Assurance
 * QBR: quarterly business review
