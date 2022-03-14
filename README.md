@@ -80,6 +80,7 @@
 * PoV: Proof of Value
 * PR: Pull Request
 * PRD: Product Requirements Document
+* PTAL: Please Take Another Look
 * PTO: Paid Time Off
 * QA: Quality Assurance
 * QBR: quarterly business review
