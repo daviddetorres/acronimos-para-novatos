@@ -20,6 +20,7 @@
 * CIEM: Cloud Infrastructure Entitlement Management
 * CNAPP: Cloud-Native Application Protection Platform
 * CNSP: Cloud-Native Security Platform
+* CSP: Cloud Service Provider
 * CSPM: Cloud Security Posture Management
 * CVSS: Common Vulnerability Scoring System
 * CWPP: Cloud Workload Protection Platform
