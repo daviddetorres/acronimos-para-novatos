@@ -94,6 +94,7 @@
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
 * SKO: Sales Kickoff
+* SMB: Small and Midsize Business (business categorization, besides enterprise)
 * SME: Subject-Matter Expert
 * SRE: Site Reliability Engineer
 * SRM: Security and Risk Management
