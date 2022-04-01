@@ -94,6 +94,7 @@
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
 * SKO: Sales Kickoff
+* SMB: Small and Midsize Business (business categorization, besides enterprise)
 * SME: Subject-Matter Expert
 * SRE: Site Reliability Engineer
 * SRM: Security and Risk Management
@@ -120,6 +121,7 @@
 * WTF: What The Fuck
 * YAML: YAML Ain’t Markup Language
 * YMMV: Your Mileage May Vary (to mean that you understand people may have a different opinion or experience to yours)
+* YoY: Year Over Year
 * YRW: You are welcome
 
 # Abreviaturas
