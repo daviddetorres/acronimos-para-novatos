@@ -87,6 +87,8 @@
 * QBR: quarterly business review
 * Q&A: Questions & Answers
 * RC: Release Candidate
+* REQ: Requisition to Recruit
+* ROP: Recruiting Only Position
 * SaaS: Software as a Service
 * SAST: Static Application Security Testing 
 * SAT: Site Acceptance Test
@@ -100,8 +102,8 @@
 * SRM: Security and Risk Management
 * SSOT: Single Source Of Truth
 * SSPM: SaaS Security Posture Management
-* TBD: To be determined
-* TBH: To be honest
+* TBD: To Be Determined
+* TBH: To Be Honest
 * TDD: Test-Driven Development
 * TIA: Thanks In Advance
 * TIL: Today I Learned
