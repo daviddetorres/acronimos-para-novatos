@@ -35,6 +35,7 @@
 * ETA: Estimated Time of Arrival
 * FAQ: Frequently Asked Questions
 * FAT: Factory Acceptance Test
+* FFU: For Future Use
 * FML: Fuck My Life
 * FTR: For The Record
 * FWIW: For What It's Worth
