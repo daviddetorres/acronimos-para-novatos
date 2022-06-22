@@ -1,4 +1,4 @@
-# Acronimos para novatos
+# Acrónimos para novatos
 ¿Acabas de aterrizar en una empresa o proyecto en inglés y todos hablan con siglas que no entiendes? Hemos estado allí, y esta es tu guía de supervivencia.
 
 # Acrónimos
@@ -14,10 +14,10 @@
 * CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
 * CEO: Chief Executive Officer
-* CISO: Chief Information Security Officer (as a service)
 * CFP: Call For Papers
 * CI/CD: Continuous Integration / Continuous Delivery (Development)
 * CIEM: Cloud Infrastructure Entitlement Management
+* CISO: Chief Information Security Officer (as a service)
 * CNAPP: Cloud-Native Application Protection Platform
 * CNSP: Cloud-Native Security Platform
 * CSP: Cloud Service Provider
@@ -30,9 +30,11 @@
 * DLP: Data Loss Prevention
 * DOD: Definition Of Done (Agilismo)
 * DOR: Definition Of Ready (Agilismo)
+* EOD: End of Day
 * ELI5: Explain Like I'm 5
 * EMEA: Europe, the Middle East and Africa
 * ETA: Estimated Time of Arrival
+* FAANG: Facebook, Amazon, Apple, Netflix and Google
 * FAQ: Frequently Asked Questions
 * FAT: Factory Acceptance Test
 * FML: Fuck My Life
@@ -50,9 +52,9 @@
 * IDK: I Don't Know
 * IHAC: I Have A Customer/Client
 * IIRC: If I Recall Correctly
+* IIRC: If I Remember Corretly
 * IMHO: In My Humble Opinion
 * IMO: In My Opinion
-* IIRC: If I Remember Corretly
 * IT: Information Technologies
 * K8s: Kubernetes
 * KSPM: Kubernetes Security Posture Management
@@ -62,9 +64,8 @@
 * LMK: Let Me Know
 * MBR: Master Boot Record
 * MBR: Monthly Business Review
-* MTTR: Mean Time To Repair (también Mean Time To Recovery)
 * MS: Milestone
-* MTTR: Mean Time to Repair
+* MTTR: Mean Time To Repair (también Mean Time To Recovery)
 * MVP: Minimum Viable Product
 * NP: No Problem
 * NSFW: Not Safe For Work
@@ -83,11 +84,11 @@
 * PRD: Product Requirements Document
 * PTAL: Please Take Another Look
 * PTO: Paid Time Off
+* Q&A: Questions & Answers
 * QA: Quality Assurance
 * QBR: quarterly business review
-* Q&A: Questions & Answers
 * RC: Release Candidate
-* SaaS: Software as a Service
+* SaaS: Software as a Service (también Security as a service)
 * SAST: Static Application Security Testing 
 * SAT: Site Acceptance Test
 * SE: Software Engineer
@@ -121,6 +122,7 @@
 * WTF: What The Fuck
 * YAML: YAML Ain’t Markup Language
 * YMMV: Your Mileage May Vary (to mean that you understand people may have a different opinion or experience to yours)
+* YTD: Year To Date
 * YoY: Year Over Year
 * YRW: You are welcome
 
