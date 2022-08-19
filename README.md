@@ -7,9 +7,11 @@
 * AFK: Away From Keyboard
 * ARR: Annual Recurring Revenue
 * ASAP: As Soon As Possible
+* BDD: Behavior-driven development
 * BRB: Be right back
 * BYOK: Bring Your Own Key
 * CA: Certification Authority
+* CA: Controlled Availability
 * CASB: Cloud Access Security Broker
 * CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
