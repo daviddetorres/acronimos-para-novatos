@@ -44,6 +44,7 @@
 * GTM: Go To Meeting or Go To Market
 * HIDS: Host-based Intrusion Detection System
 * IaC: Infrastructure as Code
+* IaaS: Infrastructure as a Service
 * IAM: Identity and Access Management
 * ICYMI: In Case You Missed It
 * IDC: I Don't Care
@@ -74,6 +75,7 @@
 * OTOH: On the other hand
 * OTR: Off The Record
 * PA: Product Analyst
+* PaaS: Platform as a Service
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
 * PM: Product Manager / Project Manager
@@ -87,6 +89,7 @@
 * QBR: quarterly business review
 * Q&A: Questions & Answers
 * RC: Release Candidate
+* RTFM: Read The F* Manual
 * SaaS: Software as a Service
 * SAST: Static Application Security Testing 
 * SAT: Site Acceptance Test
@@ -129,7 +132,7 @@
 * re: Regarding, para cuando quieres poner en contexto un tema del que hablar
 
 # Frases hechas
-* My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
+* My 2 cents: Se usa antes de dar una opinión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
 * Low hanging fruit: Mejoras o acciones que se pueden realizar con poco esfuerzo en relación al beneficio.
 
 # Tiempo
