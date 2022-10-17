@@ -7,9 +7,11 @@
 * AFK: Away From Keyboard
 * ARR: Annual Recurring Revenue
 * ASAP: As Soon As Possible
+* BDD: Behavior-driven development
 * BRB: Be right back
 * BYOK: Bring Your Own Key
 * CA: Certification Authority
+* CA: Controlled Availability
 * CASB: Cloud Access Security Broker
 * CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
@@ -35,6 +37,7 @@
 * ETA: Estimated Time of Arrival
 * FAQ: Frequently Asked Questions
 * FAT: Factory Acceptance Test
+* FFU: For Future Use
 * FML: Fuck My Life
 * FTR: For The Record
 * FWIW: For What It's Worth
@@ -44,15 +47,15 @@
 * GTM: Go To Meeting or Go To Market
 * HIDS: Host-based Intrusion Detection System
 * IaC: Infrastructure as Code
+* IaaS: Infrastructure as a Service
 * IAM: Identity and Access Management
 * ICYMI: In Case You Missed It
 * IDC: I Don't Care
 * IDK: I Don't Know
 * IHAC: I Have A Customer/Client
-* IIRC: If I Recall Correctly
+* IIRC: If I Recall/Remember Correctly
 * IMHO: In My Humble Opinion
 * IMO: In My Opinion
-* IIRC: If I Remember Corretly
 * IT: Information Technologies
 * K8s: Kubernetes
 * KSPM: Kubernetes Security Posture Management
@@ -74,6 +77,7 @@
 * OTOH: On the other hand
 * OTR: Off The Record
 * PA: Product Analyst
+* PaaS: Platform as a Service
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
 * PM: Product Manager / Project Manager
@@ -89,6 +93,7 @@
 * RC: Release Candidate
 * REQ: Requisition to Recruit
 * ROP: Recruiting Only Position
+* RTFM: Read The F* Manual
 * SaaS: Software as a Service
 * SAST: Static Application Security Testing 
 * SAT: Site Acceptance Test
@@ -131,7 +136,7 @@
 * re: Regarding, para cuando quieres poner en contexto un tema del que hablar
 
 # Frases hechas
-* My 2 cents: Se usa antes de dar una opnión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
+* My 2 cents: Se usa antes de dar una opinión que debe tomarse solo como aportación o sugerencia. Similar a IMHO.
 * Low hanging fruit: Mejoras o acciones que se pueden realizar con poco esfuerzo en relación al beneficio.
 
 # Tiempo
