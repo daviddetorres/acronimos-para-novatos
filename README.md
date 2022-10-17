@@ -50,10 +50,9 @@
 * IDC: I Don't Care
 * IDK: I Don't Know
 * IHAC: I Have A Customer/Client
-* IIRC: If I Recall Correctly
+* IIRC: If I Recall/Remember Correctly
 * IMHO: In My Humble Opinion
 * IMO: In My Opinion
-* IIRC: If I Remember Corretly
 * IT: Information Technologies
 * K8s: Kubernetes
 * KSPM: Kubernetes Security Posture Management
