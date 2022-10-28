@@ -101,6 +101,9 @@
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
 * SKO: Sales Kickoff
+* SLA: Service Level Agreement
+* SLI: Service Level Indicators
+* SLO: Service Level Objectives
 * SMB: Small and Midsize Business (business categorization, besides enterprise)
 * SME: Subject-Matter Expert
 * SRE: Site Reliability Engineer
