@@ -144,6 +144,7 @@
 
 # Tiempo
 * FY: Fiscal Year
+* CY: Calendar Year
 * H1 - H2: Half -> Semestres
 * Q1 - Q4: Quarters -> Trimestres
 
