@@ -67,7 +67,6 @@
 * MBR: Monthly Business Review
 * MTTR: Mean Time To Repair (también Mean Time To Recovery)
 * MS: Milestone
-* MTTR: Mean Time to Repair
 * MVP: Minimum Viable Product
 * NP: No Problem
 * NSFW: Not Safe For Work
@@ -117,6 +116,7 @@
 * TIL: Today I Learned
 * TL;DR: Too Long; Didn't Read
 * TOI: Topic Of Interest/ Transfer Of Information
+* TTR: Time To Resolve
 * UAT: User Acceptance Test
 * UEBA: User and Entity Behaviour Analytics
 * VM: Virtual Machine
