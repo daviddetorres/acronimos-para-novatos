@@ -91,6 +91,7 @@
 * QBR: quarterly business review
 * Q&A: Questions & Answers
 * RC: Release Candidate
+* RCA: Root Cause Analysis
 * REQ: Requisition to Recruit
 * ROP: Recruiting Only Position
 * RTFM: Read The F* Manual
