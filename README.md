@@ -101,6 +101,7 @@
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
 * SKO: Sales Kickoff
+* SKU: Stop Keeping Unit (It can be considered a product catalog)
 * SLA: Service Level Agreement
 * SLI: Service Level Indicators
 * SLO: Service Level Objectives
