@@ -76,6 +76,7 @@
 * OTOH: On the other hand
 * OTR: Off The Record
 * PA: Product Analyst
+* PAYG: Pay As You Go
 * PaaS: Platform as a Service
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
