@@ -75,7 +75,6 @@
 * MBR: Monthly Business Review / Master Boot Record
 * MTTR: Mean Time To Repair / Mean Time To Recovery / Mean Time to Resolution
 * MS: Milestone
-* MTTR: Mean Time to Repair
 * MVP: Minimum Viable Product
 * NP: No Problem
 * NPI: New Product Introduction
@@ -86,6 +85,7 @@
 * OTOH: On the other hand
 * OTR: Off The Record
 * PA: Product Analyst
+* PAYG: Pay As You Go
 * PaaS: Platform as a Service
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
@@ -95,13 +95,15 @@
 * PR: Pull Request
 * PRD: Product Requirements Document
 * PTAL: Please Take Another Look
+* PTI: Profitability Indicator Ratios
 * PTO: Paid Time Off
 * QA: Quality Assurance
 * QBR: Quarterly Business Review
 * QE: Quality Engineer
 * Q&A: Questions & Answers
 * RC: Release Candidate
-* REQ: Requisition (to Recruit)
+* RCA: Root Cause Analysis
+* REQ: Requisition to Recruit
 * ROP: Recruiting Only Position
 * RTFM: Read The Fu****g Manual
 * SaaS: Software as a Service
@@ -111,6 +113,10 @@
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
 * SKO: Sales Kickoff
+* SKU: Stock Keeping Unit (It can be considered a product catalog)
+* SLA: Service Level Agreement
+* SLI: Service Level Indicators
+* SLO: Service Level Objectives
 * SMB: Small and Midsize Business (business categorization, besides enterprise)
 * SME: Subject-Matter Expert
 * SRE: Site Reliability Engineer
@@ -124,6 +130,7 @@
 * TIL: Today I Learned
 * TL;DR: Too Long; Didn't Read
 * TOI: Topic Of Interest/ Transfer Of Information
+* TTR: Time To Resolve
 * UAT: User Acceptance Test
 * UEBA: User and Entity Behaviour Analytics
 * VM: Virtual Machine
@@ -151,6 +158,7 @@
 
 # Tiempo
 * FY: Fiscal Year
+* CY: Calendar Year
 * H1 - H2: Half -> Semestres
 * Q1 - Q4: Quarters -> Trimestres
 
