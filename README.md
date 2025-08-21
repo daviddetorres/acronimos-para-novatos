@@ -94,6 +94,7 @@
 * RC: Release Candidate
 * RCA: Root Cause Analysis
 * REQ: Requisition to Recruit
+* RFP: Request For Proposal
 * ROP: Recruiting Only Position
 * RTFM: Read The F* Manual
 * SaaS: Software as a Service
