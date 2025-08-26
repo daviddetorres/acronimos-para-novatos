@@ -3,15 +3,19 @@
 
 # Acrónimos
 
+* AE: Account Executive
 * AFAIK: As Far As I Know
 * AFK: Away From Keyboard
+* AISPM: Artificial Intelligence Security Posture Management
+* AppSec: Application Security
 * ARR: Annual Recurring Revenue
 * ASAP: As Soon As Possible
+* ASPM: Application Security Posture Management
 * BDD: Behavior-driven development
 * BRB: Be right back
 * BYOK: Bring Your Own Key
-* CA: Certification Authority
-* CA: Controlled Availability
+* BYOL: Bring Your Own License
+* CA: Certification Authority / Controlled Availability
 * CASB: Cloud Access Security Broker
 * CCA: Continuous Configuration Automation
 * CD/CI: Continuous Delivery (Development) / Continuous Integration
@@ -22,16 +26,21 @@
 * CIEM: Cloud Infrastructure Entitlement Management
 * CNAPP: Cloud-Native Application Protection Platform
 * CNSP: Cloud-Native Security Platform
+* CPO: Chief Product Officer
+* CS: Customer Success
+* CSM: Customer Success Manager
 * CSP: Cloud Service Provider
 * CSPM: Cloud Security Posture Management
+* CTO: Chief Technology Officer
 * CVSS: Common Vulnerability Scoring System
 * CWPP: Cloud Workload Protection Platform
 * DA: Data Analyst
-* DAST: Dynamic Application Security Testing 
+* DAST: Dynamic Application Security Testing
 * DKDC: Don't Know, Don't Care
 * DLP: Data Loss Prevention
 * DOD: Definition Of Done (Agilismo)
 * DOR: Definition Of Ready (Agilismo)
+* DSPM: Data Security Posture Management
 * ELI5: Explain Like I'm 5
 * EMEA: Europe, the Middle East and Africa
 * ETA: Estimated Time of Arrival
@@ -63,12 +72,12 @@
 * LGTM: Looks Good To Me
 * LMAO: Laughing my ass off
 * LMK: Let Me Know
-* MBR: Master Boot Record
-* MBR: Monthly Business Review
-* MTTR: Mean Time To Repair (también Mean Time To Recovery)
+* MBR: Monthly Business Review / Master Boot Record
+* MTTR: Mean Time To Repair / Mean Time To Recovery / Mean Time to Resolution
 * MS: Milestone
 * MVP: Minimum Viable Product
 * NP: No Problem
+* NPI: New Product Introduction
 * NSFW: Not Safe For Work
 * NVM: Never Mind
 * OOO: Out Of Office
@@ -81,26 +90,27 @@
 * PEBKAC: Problem Exist Between Keyboard And Chair
 * PFA: Please find attached
 * PM: Product Manager / Project Manager
-* PoC: Proof of Concept
-* PoV: Proof of Value
+* POC: Proof of Concept
+* POV: Proof of Value
 * PR: Pull Request
 * PRD: Product Requirements Document
 * PTAL: Please Take Another Look
 * PTI: Profitability Indicator Ratios
 * PTO: Paid Time Off
 * QA: Quality Assurance
-* QBR: quarterly business review
+* QBR: Quarterly Business Review
+* QE: Quality Engineer
 * Q&A: Questions & Answers
 * RC: Release Candidate
 * RCA: Root Cause Analysis
 * REQ: Requisition to Recruit
 * RFP: Request For Proposal
 * ROP: Recruiting Only Position
-* RTFM: Read The F* Manual
+* RTFM: Read The Fu****g Manual
 * SaaS: Software as a Service
-* SAST: Static Application Security Testing 
+* SAST: Static Application Security Testing
 * SAT: Site Acceptance Test
-* SE: Software Engineer
+* SE: Software Engineer / Sales Engineer
 * SIEM: Security Information and Event Management
 * SIT: System Integration Testing
 * SKO: Sales Kickoff
